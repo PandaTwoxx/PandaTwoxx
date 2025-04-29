@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PandaTwoxx
 - 👀 I’m into computer science and programming
-- 🌱 I’m currently learning python3 flask
+- 🌱 I’m currently learning nextjs flask
 - 🖥️ I mostly build web apps
 - 😄 Pronouns: he/him
 
