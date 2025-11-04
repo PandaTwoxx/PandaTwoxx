@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PandaTwoxx
 - 👀 I’m into computer science and programming
-- 🌱 I’m currently learning nextjs flask
-- 🖥️ I mostly build web apps
+- 🌱 I’m currently learning Swift and FastAPI
+- 🖥️ I mostly build apps
 - 😄 Pronouns: he/him
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PandaTwoxx&theme=algolia)
