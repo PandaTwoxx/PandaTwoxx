@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PandaTwoxx
 - 👀 I’m into computer science and programming
-- 🌱 I’m currently learning Swift and FastAPI
+- 🌱 I’m currently learning Nuxt and Nextjs
 - 🖥️ I mostly build apps
 - 😄 Pronouns: he/him
 
